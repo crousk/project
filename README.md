@@ -1,7 +1,7 @@
-# group04092025Project
+# project
 
 ## Docker
-- group04092025Project\backend> docker build -t superapp .
+- project\backend> docker build -t superapp .
 - docker run superapp
 - docker run -d superapp
 ## docker compose 
