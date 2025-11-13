@@ -13,3 +13,7 @@
 - uv run -m uvicorn app.main:app
 - \backend\app> uv run -m uvicorn main:app  --reload --port 4569
 
+## create new service
+   1 uv init frontend
+   2 cd .\frontend\
+   3 uv add "fastapi[all]"
